@@ -14,7 +14,7 @@ if not displayName or displayName == "" then
 end
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
-local title = ("Genesis Hub| Hello %s"):format(displayName)
+local title = ("SERAPH HUB| Hello %s"):format(displayName)
 
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/vhhvwvvchvvydvbff-wq/Script-/refs/heads/main/To%C3%B1itax%20librari", true))()
 
